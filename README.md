@@ -1,2 +1,26 @@
-Last updated: 2026-08-31 02:54:08 WIB
-Last updated: 2026-08-31 05:10:21 WIB
+# PHP-Dasar
+
+
+
+## 📋 Overview
+
+This repository contains **1657 files** and is built with the following technologies:
+
+Not detected
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+Not detected
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-08-31 05:25:08 WIB*
